@@ -1,4 +1,5 @@
-### 🚁 :brain: 💻
+💻 Currently working on adulting and learning SQL
+📧 Reach me through: work.amartyadash@gmail.com
 
 <!--
 **amartyadash/amartyadash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
