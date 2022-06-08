@@ -1,4 +1,4 @@
-💻 Currently working on adulting and learning SQL
+💻 Currently working on adulting and learning Finance 💸
 
 📨 Reach me through: work.amartyadash@gmail.com
 
