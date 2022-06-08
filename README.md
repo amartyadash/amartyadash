@@ -1,6 +1,8 @@
 💻 Currently working on adulting and learning SQL
 
-📧 Reach me through: work.amartyadash@gmail.com
+📨 Reach me through: work.amartyadash@gmail.com
+
+📷 Portfolio site: https://www.linkedin.com/in/amartya-dash-b25b90195/
 
 <!--
 **amartyadash/amartyadash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
