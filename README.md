@@ -2,7 +2,7 @@
 
 📨 Reach me through: work.amartyadash@gmail.com
 
-📷 Portfolio site: https://www.linkedin.com/in/amartya-dash-b25b90195/
+📷 Portfolio site: https://amartyadash.github.io/
 
 <!--
 **amartyadash/amartyadash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
