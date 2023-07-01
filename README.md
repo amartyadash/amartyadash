@@ -1,5 +1,3 @@
-💻 Currently working on adulting and learning Finance 💸
-
 📨 Reach me through: work.amartyadash@gmail.com
 
 📷 Portfolio site: https://amartyadash.github.io/
